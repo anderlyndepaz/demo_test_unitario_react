@@ -14,6 +14,7 @@ function App() {
 
   return (
     <>
+    <h1>Bolito te queremos</h1>
       <div>
         <a href="https://vitejs.dev">
           <img src={viteLogo} className="logo" alt="Vite logo" />
